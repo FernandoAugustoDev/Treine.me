@@ -25,12 +25,12 @@
 
 Tecnologias usadas neste projeto
 
-- HTML
-- CSS
-- Estruturação da página em HTML
-- Posição dos elementos na tela
-- Aplicação de fontes customizadas
-- Alinhamento de textos e elementos
+✅ HTML
+✅ CSS
+   - Estruturação da página em HTML
+   - Posição dos elementos na tela
+   - Aplicação de fontes customizadas
+   - Alinhamento de textos e elementos
 ---
 
 ## 👨🏼‍💻 Autor

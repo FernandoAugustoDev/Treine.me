@@ -25,7 +25,7 @@
 
 Tecnologias usadas neste projeto
 
-✅ HTML
+✅ HTML <br>
 ✅ CSS
    - Estruturação da página em HTML
    - Posição dos elementos na tela
